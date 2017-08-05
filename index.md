@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/arjunhari2704/arjunhari2704.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an engineering student studying at MESCE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FABLAB
 
-### Markdown
+This is one of the best lab im my college. in this lab we are able to create anything fromour imagination.
+Tis lab consists of machines such as a 3D printer, CNC machine and a laser printer. this provides oppurtunities such as one can see his/her idea take shape. this lab helps any person's deisign to get out of paper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ABOUT THE COURSE
+this course that we are attending started on 03/08/2017. we are being mentored by Mr. JASEEL MOHAMMED, he is one of the few graduate from fablab academy Trivandrum.
+# WEEK 1
+in progresss.... 
+# WEEK 2
+yet to start
 
-```markdown
-Syntax highlighted code block
+## FINAL PROJECT IDEA
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arjunhari2704/arjunhari2704.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
