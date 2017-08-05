@@ -22,10 +22,11 @@ yet to start
 ## FINAL PROJECT IDEA
 I want to create a water level indicator.
 ### CIRCUIT DIAGRAM
-![Image]()
+![Image](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/Webp.net-resizeimage.gif)
 
 
-
-[Link](url) and ![Image](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/Webp.net-resizeimage.jpg)
+#### Contact me
+mob: 9496525007
+facebook : [Link](https://www.facebook.com/arjun.hari.395)
 ```
 
