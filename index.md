@@ -15,6 +15,9 @@ in progresss....
 yet to start
 
 ## FINAL PROJECT IDEA
+I want to create a water level indicator.
+### CIRCUIT DIAGRAM
+![Image]()
 
 
 
