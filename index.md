@@ -19,7 +19,13 @@ this course that we are attending started on 03/08/2017. we are being mentored b
 We were introduced to the github platform got to know how to create a web page. We learned more about [FABLAB](http://www.fablabdc.org/history/) and its emergance. The whole course was explained with specifing each day's work. Got to see 3D printer, CNC and laser printer in action. 
 in progresss.... 
 #### DAY 2
-The whole group were split into two as team A and B.All were asked to install software like EAGLE, CURA and CAD onto their laptops. We were also instructed about submiting an idea for the final project.
+The whole group were split into two as team A and B.All were asked to install software like EAGLE, CURA and CAD onto their laptops. We were also instructed about submiting an idea for the final project.)
+
+
+[_**LASER PRINTER IN ACTION**_](https://youtu.be/kkbdGcVoXyA)
+
+
+
 ### WEEK 2
 yet to start
 
