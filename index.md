@@ -22,7 +22,7 @@ in progresss....
 The whole group were split into two as team A and B.All were asked to install software like EAGLE, CURA and CAD onto their laptops. We were also instructed about submiting an idea for the final project.)
 
 
-[_**LASER PRINTER IN ACTION**_](https://youtu.be/kkbdGcVoXyA)
+[_**LASER PRINTER IN ACTION**_](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/spinner.gif)
 
 
 
