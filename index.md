@@ -1,5 +1,6 @@
-## ABOUT ME 
-
+<p align= "center">
+  <font size="+5"> ABOUT ME </font>
+  </p>
 I am an engineering student studying at MESCE
 
 ### FABLAB
@@ -9,8 +10,10 @@ Tis lab consists of machines such as a 3D printer, CNC machine and a laser print
 
 
 
-![Image](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/Webp.net-resizeimage.jpg)
+<p align= "center">
+  <img src="https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/Webp.net-resizeimage.jpg">
 
+</p>
 
 ## ABOUT THE COURSE
 this course that we are attending started on 03/08/2017. we are being mentored by Mr. JASEEL MOHAMMED, he is one of the few graduate from fablab academy Trivandrum.
