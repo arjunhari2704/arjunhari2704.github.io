@@ -1,6 +1,7 @@
+<font size="+5">
 <p align= "center">
-  <font size="+5"> ABOUT ME </font>
-  </p>
+  <b> ABOUT ME </b>
+  </p></font>
 I am an engineering student studying at MESCE
 
 ### FABLAB
