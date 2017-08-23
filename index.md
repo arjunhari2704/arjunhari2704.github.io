@@ -4,6 +4,10 @@
   </p></font>
  I was born at Tirur a small town in Malappuram on 27th of April 1996. I am well versed in 3 languages (Hindi,Malayalam and English).
 
+
+
+
+
 ## EDUCATIONAL QUALIFICATION
  ### SCHOOL EDUCATION 
  I had done m y school education under CBSE.
