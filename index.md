@@ -1,4 +1,4 @@
-<font size="-1">
+<font size="5">
 <p align= "center">
   <b> ABOUT ME </b>
   </p></font>
