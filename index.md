@@ -32,7 +32,7 @@ yet to start
 ## FINAL PROJECT IDEA
 I want to create a water level indicator.
 ### CIRCUIT DIAGRAM
-![Image](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/Webp.net-resizeimage.gif)
+![Image](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/Webp.net-resizeimage.gif) 
 
 
 #### Contact me
