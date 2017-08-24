@@ -9,4 +9,5 @@ WELCOME TO MY WORLD
 
 - [![ABOUT ME](https://cdn2.iconfinder.com/data/icons/picol-vector/32/data_privacy-32.png )**ABOUT ME**](aboutme)
 - [![COURSES](https://cdn3.iconfinder.com/data/icons/document-icons-7/512/BT_binder-32.png)**COURSES**](courses)
+- [![PROJECTS](https://cdn04.iconfinder.com/data/icons/essential-app-1/16/cluster-data-group-organize-32.png)**PROJECTS**](projects)
 
