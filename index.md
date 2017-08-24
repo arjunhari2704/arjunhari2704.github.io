@@ -3,7 +3,7 @@
 <Img src ="https://cdn3.iconfinder.com/data/icons/internet-and-web-4/78/internt_web_technology-13-128.png">
 
 <br>
-
+<p align= "center">
 <font size="+5">
   <b> ABOUT ME </b>
   </p></font>
