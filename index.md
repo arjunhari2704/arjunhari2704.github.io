@@ -1,5 +1,10 @@
-<font size="+5">
+
 <p align= "center">
+<Img src ="https://cdn3.iconfinder.com/data/icons/internet-and-web-4/78/internt_web_technology-13-128.png">
+
+<br>
+
+<font size="+5">
   <b> ABOUT ME </b>
   </p></font>
  I was born at Tirur a small town in Malappuram on 27th of April 1996. I am well versed in 3 languages (Hindi,Malayalam and English).
