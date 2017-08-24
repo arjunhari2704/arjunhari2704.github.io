@@ -1,7 +1,15 @@
-
-
-
-
+<p align= "center">
+<font size="+2"> 
+  <b> ABOUT ME </b>
+  </p>
+</font>
+ I was born at Tirur a small town in Malappuram on 27th of April 1996. I am well versed in 3 languages (Hindi,Malayalam and English).
+<font size="+5">
+<p align= "center">
+  <b> EDUCATIONAL QUALIFICATION </b>
+  </p></font>
+  
+  
 ### SCHOOL EDUCATION 
  I had done m y school education under CBSE.
  I started my schooling at Air force school Agra, where i studied till 2nd. I completed my sslc from Bhavans Vidhya Bhavan Thirunavaya. It is a beautiful school in the baks of the Nila river. I passed my sslc from  there with a CGPA of 10. I completed plus two from Nirmala Matha Central School Thrissur. Where i passed my plus two with 81.7% in computer science batch. 
