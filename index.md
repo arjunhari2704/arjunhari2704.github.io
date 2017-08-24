@@ -25,7 +25,7 @@
  I enrolled my self for engineering in the year 2014. I joined Electrical and Electroncs branch at MESCE Kuttippuram
  
  
- ## OTHER QUALIFICATION
+### OTHER QUALIFICATION
 
 #### Arduino
 I am well coder in Arduino language. I have also attended course conducted on ARDUINO at MESCE. The workshop was conducted by our branch under the guidance of Mr NIKHIL 
