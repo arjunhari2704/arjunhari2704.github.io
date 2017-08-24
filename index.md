@@ -32,20 +32,5 @@ Iam well versed in both these languages. I have undergone C++ as a core subject 
 
 [<b>1.FABLAB </b>](https://arjunhari2704.github.io/FABLAB/) 
  
-## FINAL PROJECT IDEA
-
-I want to create a water level indicator.
-
-### CIRCUIT DIAGRAM
-
-![Image](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/Webp.net-resizeimage.gif) 
-
-#### Contact me
-
-mob: 9496525007
-
-_social networks_
-
-[![Image](https://raw.githubusercontent.com/arjunhari2704/arjunhari2704.github.io/master/output_QRYgjn.gif)](https://www.facebook.com/arjun.hari.395)    
 
 
