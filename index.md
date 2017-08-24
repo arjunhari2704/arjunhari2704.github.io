@@ -17,10 +17,12 @@
  
  ### COLLEGE EDUCATION
  I enrolled my self for engineering in the year 2014. I joined Electrical and Electroncs branch at MESCE Kuttippuram
- #OTHER QUALIFICATION
-Arduino
+ # OTHER QUALIFICATION
+
+#### Arduino
 I am well coder in Arduino language. I have also attended course conducted on ARDUINO at MESCE. The workshop was conducted by our branch under the guidance of Mr NIKHIL 
-C & C++ 
+
+#### C & C++ 
 Iam well versed in both these languages. I have undergone C++ as a core subject in my higher secondary for about 2 years. Also I have undergone C as a paper in my graduation.
 
 ## COURSE DETAILS
