@@ -8,7 +8,7 @@
 
 
 
-<font size="+7">
+<font size="+5">
 <p align= "center">
   <b> EDUCATIONAL QUALIFICATION </b>
   </p></font>
@@ -36,7 +36,7 @@ Iam well versed in both these languages. I have undergone C++ as a core subject 
 
 ## COURSE DETAILS
 
-### _1.FABLAB_ #
+[<b>1.FABLAB </b>](https://github.com/arjunhari2704/FABLAB/edit/master/index.md)
  
 
 ### FABLAB
