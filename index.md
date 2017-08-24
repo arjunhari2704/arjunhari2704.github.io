@@ -5,7 +5,7 @@
 </p>
 <br>
 <p align= "center">
-<font size="+2">
+<font size="+2"> 
   <b> ABOUT ME </b>
   </p>
 </font>
