@@ -8,7 +8,7 @@
 <p align= "center">
 <b> EDUCATIONAL QUALIFICATION </b> 
 </p></font>
-  
+   
  
  
 
