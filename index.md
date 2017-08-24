@@ -11,6 +11,6 @@ WELCOME TO MY WORLD
  
  [![COURSES](https://cdn3.iconfinder.com/data/icons/document-icons-7/512/BT_binder-32.png)**COURSES**](courses)
   - [![FABLAB](https://cdn2.iconfinder.com/data/icons/3d-infographics/512/4-16.png)**FABLAB**](https://arjunhari2704.github.io/FABLAB/)
-  - [![GITHUBPAGE TUTORIAL](https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-1/52/cloud__data__security__safe-16.png)**GITHUBPAGE**](https://arjunhari2704.github.io/GITHUBPAGE-TUTORIAL/)
+  - [![GITHUBPAGE TUTORIAL](https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-1/52/cloud__data__security__safe-16.png)**GITHUB PAGE**](https://arjunhari2704.github.io/GITHUBPAGE-TUTORIAL/)
   
  [![PROJECTS](https://cdn04.iconfinder.com/data/icons/essential-app-1/16/cluster-data-group-organize-32.png)**PROJECTS**](projects)
