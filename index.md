@@ -2,6 +2,7 @@
 <p align= "center">
 <Img src ="https://cdn3.iconfinder.com/data/icons/internet-and-web-4/78/internt_web_technology-13-128.png">
 
+</p>
 <br>
 <p align= "center">
 <font size="+2">
