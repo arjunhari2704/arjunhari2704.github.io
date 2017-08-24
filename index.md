@@ -22,9 +22,10 @@
  
 
 ### COLLEGE EDUCATION
- I enrolled my self for engineering in the year 2014. I joined Electrical and Electroncs branch at MESCE Kuttippuram
+ I enrolled my self for engineering in the year 2014. I joined Electrical and Electroncs branch at MESCE Kuttippuram.
  
  
+
 ### OTHER QUALIFICATION
 
 #### Arduino
