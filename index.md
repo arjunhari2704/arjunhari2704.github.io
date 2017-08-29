@@ -18,7 +18,7 @@ WELCOME TO MY WORLD
      - [![CURA TUTORIAL](https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-1/52/cloud__data__security__safe-16.png)**CURA**](https://arjunhari2704.github.io/CURA/) 
      - [![COURSE PROGRESS](https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-1/52/cloud__data__security__safe-16.png)**COURSE PROGRESS**](https://arjunhari2704.github.io/COURSE-PROGRESS/)  
   
-  [![PROJECTS](https://cdn04.iconfinder.com/data/icons/essential-app-1/16/cluster-data-group-organize-32.png)**PROJECTS**](projects)
+  [![PROJECTS](https://cdn04.iconfinder.com/data/icons/essential-app-1/16/cluster-data-group-organize-32.png)**PROJECTS**](https://arjunhari2704.github.io/WATER-LEVEL-INDICATOR/)
 
 ### CONTACT ME 
 [![image](https://cdn3.iconfinder.com/data/icons/social-media-and-logos-brush/32/social_media_logo_youtube-64.png)](https://www.youtube.com/channel/UCQ8wt7XbnP1Pplk-VfwV9tQ) [![image](https://cdn3.iconfinder.com/data/icons/social-media-and-logos-brush/32/facebook_social_media_logo-64.png)](https://www.facebook.com/arjun.hari.395) ![image](https://cdn3.iconfinder.com/data/icons/social-media-and-logos-brush/32/social_media_logo_pinterest-64.png) [![image](https://cdn3.iconfinder.com/data/icons/social-media-and-logos-brush/32/social_media_logo_github-64.png)](https://github.com/arjunhari2704/)
